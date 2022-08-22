@@ -35,20 +35,26 @@ h2 {
     text-align: left;
 }
 
-ul li {
+h3 {
+    margin:0;
+    padding: 1rem;
+    text-align: center;
+}
+
+ul li label {
     cursor: pointer;
     margin:  1rem;
     font-weight: bold;
 }
 
-ul li label{
-    
+ul li {
+    font-size: 1.2rem;
+    margin: 1rem 0;
 }
 
 ul {
     list-style-type: none;
-    padding: 0;
-    
+    padding: 0;    
 }
 
 button {
